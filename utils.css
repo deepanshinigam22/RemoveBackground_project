@@ -1,0 +1,83 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.justify-between{
+   
+    justify-content:space-between;
+}
+
+.justify-center{
+    justify-content: center;
+}
+.flex-col{
+    flex-direction: column;
+}
+
+.font-bold{
+    font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
+
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    font-size: 40px;
+}
+
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text-blue{
+    color: rgb(99, 99, 222);
+}
+.btn{
+    cursor:pointer;
+    border-radius: 12px;
+    padding: 4px 12px;
+    color: white;
+    background-color: rgb(64, 132, 227);
+    height: 55px;
+    width: 200px;
+    font-weight: 500;
+    
+
+}
+
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+
+.btn-down{
+    cursor:pointer;
+    border-radius: 12px;
+    padding: 4px 12px;
+    color: white;
+    background-color: rgb(57, 209, 236);
+    height: 55px;
+    width: 200px;
+    border-color: white;
+}
+    
+
+    
